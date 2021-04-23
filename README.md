@@ -1,4 +1,4 @@
-# baidumap
+# lab3demo
 
 ## Project setup
 ```
